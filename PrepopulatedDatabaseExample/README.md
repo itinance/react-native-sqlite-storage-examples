@@ -19,4 +19,5 @@ was created by prepopulation.
 The origin database file, which should be used for prepopulation, exists twice:
 
 iOS: ./www/example.db
+
 Android: ./android/app/src/main/assets/example.db
